@@ -31,11 +31,11 @@ def gcd():
         if(a%i==0 and b%i==0):
             ch=i
     print("GCD of two numbers is:",ch)
+    
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-
+![image](https://github.com/SivaramakrishnanBaskar/GCD-of-two-numbers/assets/119476322/dd399bc5-a741-4101-a726-88e3ab7a8827)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
