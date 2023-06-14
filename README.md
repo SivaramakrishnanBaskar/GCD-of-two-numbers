@@ -33,6 +33,8 @@ def gcd():
     print("GCD of two numbers is:",ch)
     
 ```
+## Program Statement: 
+![image](https://github.com/SivaramakrishnanBaskar/GCD-of-two-numbers/assets/119476322/0f5245f5-4817-49cc-9723-0cf15a9adb64)
 
 ## Output:
 ![image](https://github.com/SivaramakrishnanBaskar/GCD-of-two-numbers/assets/119476322/dd399bc5-a741-4101-a726-88e3ab7a8827)
